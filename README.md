@@ -1,19 +1,10 @@
-#### Week 2: Building My SAGE Assistant  
-**Date:** 2026-02-07 to 2026-02-09  
+# Project Overview
 
-**What I built:**  
-I built a personalized AI assistant named SAGE to help me study a variety of subjects including math, AI, graphic design, and branding by explaining concepts simply, generating practice questions, and guiding creative projects.  
+This repository contains my work building a personalized AI study assistant called SAGE. The project focuses on creating effective prompts, refining system instructions, and testing the assistant to improve its ability to explain concepts clearly, generate practice questions, and support creative tasks.
 
-**What I learned about prompt engineering:**  
-- Clear system instructions are essential to control AI behavior.  
-- Including clarifying questions makes AI responses more interactive and helpful.  
+## Week 2 Highlights
 
-**What challenged me:**  
-Keeping the assistant from giving full homework answers was difficult and required refining instructions multiple times.  
-
-**What I'm proud of:**  
-I created detailed prompts and tested my assistant thoroughly to improve its helpfulness.  
-
-**Questions I still have:**  
-How can I make SAGE better at handling very technical or jargon-heavy topics?  
-How do I balance brevity and detail in AI responses?  
+- Designed and tested SAGE’s system instructions for helpful, clear, and patient responses  
+- Created a prompt library with practical prompts for learning, building, and evaluating  
+- Reflected on challenges like preventing full homework answers and balancing clarity with brevity  
+- Developed skills in prompt engineering and AI interaction design
